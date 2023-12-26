@@ -4,3 +4,5 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/f9ac919802718fc164d3/maintainability)](https://codeclimate.com/github/orainmers/java-project-61/maintainability)
 
 [![Test Coverage](https://api.codeclimate.com/v1/badges/f9ac919802718fc164d3/test_coverage)](https://codeclimate.com/github/orainmers/java-project-61/test_coverage)
+
+https://asciinema.org/a/guwwbbcsH9Kvb5elMP44zqjoD - аскинема с примером запуска игры even

@@ -30,8 +30,9 @@ public class EvenGame {
                 correctAnswersCount++;
             } else {
                 System.out.println("'" + userAnswer + "' is a wrong answer ;(. Correct answer was '"
-                        + (isEven ? "no" : "yes") + "'");
+                        + (isEven ? "yes" : "no") + "'");
                 correctAnswersCount = 0;
+                System.exit(0);
             }
         }
         System.out.println("Congratulations, " + userName);
